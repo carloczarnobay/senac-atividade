@@ -1,0 +1,41 @@
+body{
+    background-color: #EDF2F8;
+    font-family: "Manrope", sans-serif;
+    
+}
+
+.container {
+    background-color: #ffffff93;
+    display: flex;
+    height: 350px;
+    width: 1000px;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.container-2 {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
+
+h1 {
+    color: #4B5465;
+}
+
+p {
+    color: #757D8A;
+}
+
+h3 {
+    color: #515763;
+}
+
+h5 {
+    color: #BCC1C7;
+}
+
+.mii {
+  
+}
